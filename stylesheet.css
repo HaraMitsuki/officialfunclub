@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family:'Sawarabi Gothic', sans-serif;
+
+}
+h1 {
+
+
+ 
+  text-align: center;
+  background-image:
+  height: 320px;
+  padding-top: 40px;
+  background-repeat: no-repeat;
+  background-position: top center;
+     position: relative;
+  padding: 0.25em 1em;
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+  
+}
+
+.osirase{
+    
+}
+h1:before, h1:after {
+  content: '';
+  position: absolute;
+  top: -7px;
+  width: 2px;
+  height: -webkit-calc(100% + 14px);
+  height: calc(100% + 14px);
+  background-color: black;
+}
+h1:before {
+  left: 7px;
+}
+h1:after {
+  right: 7px;
+}
+
+header {
+  background-image:url(%E8%83%8C%E6%99%AF.jpg);
+  background-size: cover;
+  height: 650px;
+  padding-top: 30px;
+}
+
+nav {
+  background-color:darkseagreen;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #ffcc11;
+}
+
+nav ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.shop {
+  
+background-image:  url(%E8%83%8C%E6%99%AF.jpg);
+
+  color:black;
+  padding: 30px;
+}
+
+.title {
+  font-size: 30px;
+  border-left-style: solid;
+  border-left-color:darkseagreen;
+  border-left-width: 10px;
+  padding-left: 15px;
+  margin-bottom: 50px;
+}
+
+.shop p {
+  font-size: 20px;
+  background-color: #ffffff;
+  padding: 20px;
+  height: 150px;
+  border-radius: 30px;
+}
+
+.shop img {
+  float: right;
+}
+
+.photo {
+  padding: 30px;
+  background-image:url(%E8%83%8C%E6%99%AF.jpg);
+}
+
+.photo h2 {
+  color:black;
+  border-color:darkseagreen
+}
+
+.photo p {
+  color: black;
+  clear: left;
+  margin: 20px;
+}
+
+.iikura{
+  background-color: #ffffff;
+  width: 240px;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px #000000;
+}
+
+.small {
+  background-color: #ffffff;
+  width: 240px;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px #000000;
+}
+
+
+
+
+footer {
+  text-align: center;
+  color: #ffffff;
+  background-color:darkseagreen;
+}
+.gk{
+     border-left-style: solid;
+  border-left-color:#fff500;
+  border-left-width: 5px;
+}
+.mf{
+     border-left-style: solid;
+  border-left-color:blue;
+  border-left-width: 5px;
+}
+.df{ border-left-style: solid;
+  border-left-color: green;
+border-left-width: 5px;
+}
+
+.fw{
+     border-left-style: solid;
+
+  border-left-color:red;
+  border-left-width: 5px;
+}
+.seiseki td{
+    border-color: azure;
+    background-color:azure;
+    
+    
+}
+.seiseki{
+    background-image:url(%E8%83%8C%E6%99%AF.jpg);
+      background-size: cover;
+}
+    
+.fm{
+    width:160%;
+}
+
+table{
+    width: 40%;
+    padding-left: 5%;
+}
+
+
+.mae{
+  background-color: #ffffff;
+  width: 240px;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px #000000;
+    olverflow:hidden;
+
+
+}
+
+.group{
+    display: flex;
+    
+}
+.oma{
+    
+     background-color: #ffffff;
+  width: 240px;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px #000000;
+    
+
+}
+
+.grod{
+    display: flex;
+    
+}
+
+.grd{
+    
+     display: flex;
+}
+.yama{
+      background-color: #ffffff;
+  width: 240px;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px #000000;
+    
+
+}
+.seru{
+   background-color: #ffffff;
+  width: 240px;
+  padding: 15px;
+  margin: 20px;
+  box-shadow: 10px 10px 20px #000000;
+    
+  
+}
+
+.lit-btn{
+    background: green;
+    color: #030303;
+    font-size: 12px;
+    border: 1px solid #ff4c4c;
+    padding: 8px;
+    text-decoartion:none;
+    border-radius: 8px;
+
+
+}
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

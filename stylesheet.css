@@ -175,7 +175,16 @@ border-left-width: 5px;
     background-image:url(%E8%83%8C%E6%99%AF.jpg);
       background-size: cover;
 }
+
+.kain{
+     background-image:url(%E8%83%8C%E6%99%AF.jpg);
+      background-size: cover;
+}
+.kain td{
+     border-color: azure;
+    background-color:azure;
     
+} 
 .fm{
     width:160%;
 }
@@ -251,12 +260,6 @@ table{
 
 
 }
-
-
-
-
-
-    
     
 
 
